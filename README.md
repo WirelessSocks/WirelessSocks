@@ -1,4 +1,8 @@
-### Hi there 👋
+# Привет, меня зовут Роман!
+
+---
+
+### :man_technologist: Обо мне:
 
 <!--
 **WirelessSocks/WirelessSocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

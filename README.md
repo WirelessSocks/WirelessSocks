@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий frontend-разработчик с профильным образованием в it и опытом работы QA-инженер.
+Я frontend-разработчик с профильным образованием в it и комерческим опытом работы QA-инженер.
 
 <!--
 **WirelessSocks/WirelessSocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
